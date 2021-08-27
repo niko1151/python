@@ -1,4 +1,4 @@
-# Data analysis with Python - Summer 2021
+# Data analysis with Python - Summer 2021.
 
 ## Authors
 
