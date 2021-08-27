@@ -1,4 +1,4 @@
-# Python beguynder og Dataanalyse 
+# Python begynder og Dataanalyse 
 2 ugers valgfag
 
 Her samler jeg alle dele og noter til udvikling af faget ...
