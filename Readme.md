@@ -2,4 +2,6 @@
 2 ugers valgfag
 
 Her samler jeg alle dele og noter til udvikling af faget ...
-de kan herefter flyttes over i et offentligt repo
+de kan herefter flyttes over i et offentligt repo.
+
+Inspiration fra [[mooc]]
