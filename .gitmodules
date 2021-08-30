@@ -1,0 +1,3 @@
+[submodule "elev_python_og_dataanalyse"]
+	path = elev_python_og_dataanalyse
+	url = git@github.com:TEC-Prog-Stud/Python-og-DataAnalyse.git
