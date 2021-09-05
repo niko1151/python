@@ -35,6 +35,10 @@ Man kan droppe `-d` for at få et mere simpelt svar:
 
 ## push
 
+        git subtree -d push -P elev_python_og_dataanalyse git@github.com:TEC-Prog-Stud/Python-og-DataAnalyse.git main
+
+Kan også køres uden `-d`, som ovenfor v. _pull_
+
 ## remove
 
     % git rm -rf mooc/data_analysis_with_python_summer_2021 
