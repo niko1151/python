@@ -13,3 +13,5 @@ Helsinki universitets online sommerkursus "Data Analysis with Python" er en vigt
 
 * Andre kurser
   * CBS <https://kursuskatalog.cbs.dk/2020-2021/DIP-D1FMV2025U.aspx?lang=en-GB>
+
+.
