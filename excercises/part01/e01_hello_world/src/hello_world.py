@@ -10,7 +10,8 @@
 # by using a main function as here.
 
 def main():
-    # Enter your code here, this is the correct indentation
+    # Ente2r your code here, this is the correct indentation
+    print("Hello, world!")
 
 # This makes sure the main function is not called immediatedly
 # when TMC imports this module
