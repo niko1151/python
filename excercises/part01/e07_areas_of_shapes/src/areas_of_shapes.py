@@ -4,6 +4,7 @@ import math
 
 
 def main():
+    shapes = "triangle rectangle circle".split()
     while(True):
         shape=input("Choose a shape (triangle, rectangle, circle): ")
         if shape == "triangle" :
@@ -21,6 +22,12 @@ def main():
             r = float(input("Give radius of the circle:"))
             area = PI * r * r
             print(f"The area is {area:.6f}")
+        if not shape in shapes:
+            if shape == "":
+                break
+            else:
+                print("Unknown shape!")
+
 
 
 
